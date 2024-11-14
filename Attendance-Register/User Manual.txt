@@ -1,0 +1,4 @@
+*Change the password (found at line number 7)inside the program according to your sql password 
+*Change the database(found at line nuimber 8) in which you store the attandance regester. 
+*install mysql-connector-python and tabulate module in your python interpriter 
+*Enjoy 
