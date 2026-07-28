@@ -7,7 +7,7 @@ from datetime import *
 from tabulate import tabulate
 from PIL import Image, ImageTk
 database="attendance"        #Change this accordingly
-password="02101625"       #Change this according to your mysql password
+password="p"       #Change this according to your mysql password
 connector = ms.connect(
         host="localhost",
         user="root",
